@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Books App</string>
+    <string name="toolbar_title">Books</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="book_image_placeholder">description_book_image</string>
+    <string name="description_error_img">Error fetching data</string>
+    <string name="error_text">Error fetching data. Please try again later.</string>
 </resources>
